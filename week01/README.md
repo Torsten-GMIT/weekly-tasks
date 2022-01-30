@@ -1,4 +1,5 @@
 # weekly-tasks
-GMIT data analytics course 
-
+...
+GMIT Data Analytics course 
+...
 code material & tasks
